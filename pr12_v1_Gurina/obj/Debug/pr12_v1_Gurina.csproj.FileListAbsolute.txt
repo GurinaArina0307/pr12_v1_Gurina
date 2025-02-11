@@ -1,0 +1,7 @@
+C:\Users\305-10\Desktop\Гурина ПР-21\pr12_v1_Gurina\bin\Debug\pr12_v1_Gurina.exe.config
+C:\Users\305-10\Desktop\Гурина ПР-21\pr12_v1_Gurina\bin\Debug\pr12_v1_Gurina.exe
+C:\Users\305-10\Desktop\Гурина ПР-21\pr12_v1_Gurina\bin\Debug\pr12_v1_Gurina.pdb
+C:\Users\305-10\Desktop\Гурина ПР-21\pr12_v1_Gurina\obj\Debug\pr12_v1_Gurina.csproj.AssemblyReference.cache
+C:\Users\305-10\Desktop\Гурина ПР-21\pr12_v1_Gurina\obj\Debug\pr12_v1_Gurina.csproj.CoreCompileInputs.cache
+C:\Users\305-10\Desktop\Гурина ПР-21\pr12_v1_Gurina\obj\Debug\pr12_v1_Gurina.exe
+C:\Users\305-10\Desktop\Гурина ПР-21\pr12_v1_Gurina\obj\Debug\pr12_v1_Gurina.pdb
